@@ -66,5 +66,5 @@ These Terms are governed by the laws of the Operator’s country of residence un
 
 ### 12. Contact & changes
 
-For questions, concerns, or to report abuse, contact: erukaidev@gmail.com.
+For questions, concerns, or to report abuse, contact: **erukaidev@gmail.com**.
 If you depend on the Bot for critical operations, consider the Bot’s limitations before relying on it.
