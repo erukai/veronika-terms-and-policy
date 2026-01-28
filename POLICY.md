@@ -6,7 +6,7 @@ This Privacy Policy explains what information the Bot collects, how it’s used,
 
 ### 1. Scope & parties
 
-This policy covers data collected by **Veronika**, operated by **Eruka**. It does not cover Discord’s data practices; Discord’s privacy policy governs user accounts and Discord metadata.
+This policy covers data collected by **Veronika**, operated by **eerfandz**. It does not cover Discord’s data practices; Discord’s privacy policy governs user accounts and Discord metadata.
 
 ### 2. What we collect (minimum necessary)
 
