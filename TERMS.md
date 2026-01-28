@@ -2,7 +2,7 @@
 
 **Effective date:** 28/1/2026
 
-This document is a quiet contract between you (the “User”) and the operator of the bot, Eruka (the “Operator”), who maintains and runs the Discord bot known as Veronika (the “Bot”). By inviting, using, or interacting with the Bot you accept these Terms of Service. If you do not agree, do not use the Bot.
+This document is a quiet contract between you (the “User”) and the operator of the bot, **Eruka** (the “Operator”), who maintains and runs the Discord bot known as **Veronika** (the “Bot”). By inviting, using, or interacting with the Bot you accept these Terms of Service. If you do not agree, do not use the Bot.
 
 ### 1. Acceptance of Terms
 
