@@ -1,8 +1,4 @@
-# veronika-terms-and-policy
-Terms of Service and Privacy Policy for the Discord bot Veronika
-
-
-Terms of Service — Veronika
+# Terms of Service — Veronika
 
 Effective date: 28/1/2026
 
